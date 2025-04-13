@@ -8,9 +8,9 @@ from io import BytesIO
 from PIL import Image
 
 # Bot configuration
-API_ID = "YOUR_API_ID"  # Replace with your api_id
-API_HASH = "YOUR_API_HASH"  # Replace with your api_hash
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
+API_ID = "12380656"  # Replace with your api_id
+API_HASH = "d927c13beaaf5110f25c505b7c071273"  # Replace with your api_hash
+BOT_TOKEN = "7787686174:AAH7bTVd3DPCWHC5kxexlwtLjwJqtCuOZzY"  # Replace with your bot token
 FOTOR_API_URL = "https://api.fotor.com/v1/ai-tools/studio-ghibli-filter"  # Real Fotor API
 ALLOWED_EXTENSIONS = {".jpg", ".jpeg", ".png"}
 MAX_FILE_SIZE = 10 * 1024 * 1024  # 10MB max file size
