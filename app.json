@@ -1,0 +1,16 @@
+{
+    "name": "Telegram Bot",
+    "description": "Telegram Bot.",
+    "keywords": [
+    "python3"
+    ],
+    "env": {},
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ]
+}
